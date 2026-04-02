@@ -1,0 +1,3 @@
+Python is powerful and fast.
+Python is friendly and easy to learn.
+Learning Python opens doors to data science and machine learning.
