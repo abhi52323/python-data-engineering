@@ -1,0 +1,6 @@
+Python is fun.
+Python is powerful.
+Python is easy to learn.
+This is Day 2 challenge.
+Counting lines helps in log analysis.
+File handling is an essential skill.
