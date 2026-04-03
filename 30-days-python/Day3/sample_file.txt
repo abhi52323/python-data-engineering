@@ -1,0 +1,5 @@
+Python is fun!
+Data engineering is powerful.
+Day 3 challenge: count characters.
+Spaces, punctuation, and letters all matter.
+Character counting builds precision.
